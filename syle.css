@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: black;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
